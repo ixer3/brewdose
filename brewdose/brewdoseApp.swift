@@ -1,10 +1,3 @@
-//
-//  brewdoseApp.swift
-//  brewdose
-//
-//  Created by Hamad Alhosani on 09/11/2026.
-//
-
 import SwiftUI
 import SwiftData
 

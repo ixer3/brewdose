@@ -1,10 +1,3 @@
-//
-//  Item.swift
-//  brewdose
-//
-//  Created by Hamad Alhosani on 09/11/2026.
-//
-
 import Foundation
 import SwiftData
 
